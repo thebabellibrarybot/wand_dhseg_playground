@@ -5,9 +5,9 @@ a playground for making a llm with langchain that will either write the integrat
 
 DHSegment: https://github.com/dhlab-epfl/dhSegment, https://github.com/dhlab-epfl/dhSegment-torch
 
-DHSegment Docs:
+DHSegment Docs: https://dhsegment.readthedocs.io/en/latest/
 
-Wandb Docs:
+Wandb Docs: https://docs.wandb.ai/
 
 ### Main pipeline:
 
